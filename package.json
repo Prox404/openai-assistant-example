@@ -1,0 +1,30 @@
+{
+  "name": "assisstant_example",
+  "version": "1.0.0",
+  "description": "using open ai to create a simple assisstant",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prox404/LearnNodeJS.git"
+  },
+  "author": "Prox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prox404/LearnNodeJS/issues"
+  },
+  "homepage": "https://github.com/Prox404/LearnNodeJS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.0.199"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
