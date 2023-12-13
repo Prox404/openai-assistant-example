@@ -1,1 +1,4 @@
-# openai-assistant-example
+'''
+npm i
+npm start
+'''
