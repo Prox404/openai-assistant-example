@@ -1,4 +1,8 @@
-'''
-npm i
+Install:
+```
 npm start
-'''
+```
+Run:
+```
+npm start
+```
